@@ -1,6 +1,8 @@
 ---
 title: "rmarkdown practice"
-output: html_document
+author: "gspitz"
+date: "6th March 2017""
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
